@@ -1,0 +1,37 @@
+EJERCICIOS PUERTAS LÓGICAS
+
+EJERCICIO 1
+Tenemos un circuito de 3 entradas (A, B, C) y una salida.
+Si B y C son distintas, la salida será positiva.
+Si A y B son distintas, la salida será positiva.
+
+Obtén el circuito y la formula.
+
+EJERCICIO 2
+Tenemos un circuito con 3 entradas(A, B, C) y una salida 
+
+- Si la suma entre A y B es 1 (positivo), 
+	el circuito devuelve el valor contrario a C.
+
+- Si la suma entre A y B es 0 (negativo), 
+	el circuito devuelve el valor de C.
+
+
+CONVERSIONES
+79(10) -> (2)
+111(10) -> (7)
+99(10) -> (16)
+123(4) -> (10)
+92(5) -> (2)
+AD(16) -> (10)
+2B(16) -> (4)
+
+OPERACIONES
+110101 + 10111 + 1111
+101011 + 10001 + 11100
+1010011 - 11111
+1110100 - 11011
+1010111 * 111
+111001 * 101
+1011101 / 110
+1111010 / 101
